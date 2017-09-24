@@ -716,3 +716,10 @@ body :checked+.radio-label {
   position: relative;
   border-color: #4078c0;
 }
+
+/*fyu*/
+
+/*figure class*/
+body .figure{
+  text-align: center;
+}
