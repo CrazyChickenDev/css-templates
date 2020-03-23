@@ -9,7 +9,8 @@
 }
 
 body {
-    width: 460px;
+    /*width: 980px;*/
+    width: 90%;
     margin-right: auto;
     margin-left: auto;
     padding: 45px;
